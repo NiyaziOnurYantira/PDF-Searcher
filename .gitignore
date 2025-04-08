@@ -1,0 +1,11 @@
+# general
+node_modules/
+uploads/
+.env
+.DS_Store
+
+# React
+pdf-keyword-scanner/build/
+
+# Log dosyaları
+*.log
